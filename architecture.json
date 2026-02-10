@@ -1,0 +1,160 @@
+{
+  "book_id": "asian-postcolonial-confessional-generational-conflict",
+  "title": "The Weight of a Dictionary",
+  "tagline": "A daughter travels to her mother's homeland to excavate a silence that has shaped them both, only to discover she's been carrying the inheritance all along.",
+  "target_words": 70000,
+  "actual_words": 63619,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Violence of Silence",
+    "Linguistic Inheritance & Betrayal",
+    "The Un-translatable Past",
+    "Postcolonial Ghosts in the Immigrant Home"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The First Theft",
+      "words": 2600
+    },
+    {
+      "ch": 2,
+      "title": "The Rhythm of the House",
+      "words": 2650
+    },
+    {
+      "ch": 3,
+      "title": "Fossils and Fragments",
+      "words": 2550
+    },
+    {
+      "ch": 4,
+      "title": "The Ghost of Cantonese",
+      "words": 2500
+    },
+    {
+      "ch": 5,
+      "title": "A Map with Landmasses Erased",
+      "words": 2700
+    },
+    {
+      "ch": 6,
+      "title": "Burning Leaves and Bad Luck",
+      "words": 2450
+    },
+    {
+      "ch": 7,
+      "title": "The Weapon Too Heavy to Carry",
+      "words": 2600
+    },
+    {
+      "ch": 8,
+      "title": "Lor Bak in Ohio",
+      "words": 2400
+    },
+    {
+      "ch": 9,
+      "title": "A Loud Shirt",
+      "words": 2550
+    },
+    {
+      "ch": 10,
+      "title": "The Archives of Forgetting",
+      "words": 2750
+    },
+    {
+      "ch": 11,
+      "title": "What the Teapot Said",
+      "words": 2500
+    },
+    {
+      "ch": 12,
+      "title": "The Unfinished Sentence",
+      "words": 2650
+    },
+    {
+      "ch": 13,
+      "title": "A Room with Covered Furniture",
+      "words": 2400
+    },
+    {
+      "ch": 14,
+      "title": "The Permission Slip Script",
+      "words": 2550
+    },
+    {
+      "ch": 15,
+      "title": "The Constellation of Apartments",
+      "words": 2600
+    },
+    {
+      "ch": 16,
+      "title": "Great Expectations, Eastern Edition",
+      "words": 2750
+    },
+    {
+      "ch": 17,
+      "title": "Swallowed Whole",
+      "words": 2450
+    },
+    {
+      "ch": 18,
+      "title": "The Diagnosis of a Name",
+      "words": 2500
+    },
+    {
+      "ch": 19,
+      "title": "Excavating a Burial Ground",
+      "words": 2700
+    },
+    {
+      "ch": 20,
+      "title": "The Currency of Respect",
+      "words": 2550
+    },
+    {
+      "ch": 21,
+      "title": "A Grenade Half-Pulled",
+      "words": 2600
+    },
+    {
+      "ch": 22,
+      "title": "Learning the Shape of the Weight",
+      "words": 2750
+    },
+    {
+      "ch": 23,
+      "title": "The Second Skin",
+      "words": 2400
+    },
+    {
+      "ch": 24,
+      "title": "The Inheritance",
+      "words": 2650
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a parent's 'secret' skill (like smoking) that only manifests in the homeland.",
+      "Craft a dialogue where a meal is served that represents a failed or successful translation of memory.",
+      "Describe a moment of 'violent subtlety'—a non-physical act of withholding that carries immense emotional force.",
+      "Write a letter from the grandfather (the teacher with the dictionary) to his daughter, the mother, that she never received."
+    ],
+    "technical": [
+      "Build a 'Linguistic Topography' interactive map tracing the migration of key words (silence, home, respect) through the novel's three generations.",
+      "Create a 'Silence Counter' tool that analyzes text to measure and visualize the weight of what is unsaid versus what is spoken in dialogue."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Maxine Hong Kingston",
+      "Ocean Vuong",
+      "Kazuo Ishiguro",
+      "Mona Hatoum"
+    ]
+  },
+  "cover_prompt": "A young woman kneels in a rain-soaked field of an unnamed Asian country, her hands carefully brushing dirt from an ancient, half-buried dictionary, its pages swollen with water and time, [Detailed Scene & Context: the ghostly, translucent silhouette of her mother is mirrored in the puddle beside her, reaching for the same book from a different era, surrounded by the faint, shimmering outlines of unspoken words and fragmented family photographs rising from the soil like mist], [Artistic Style & Medium: in the atmospheric style of a Miho Hirano painting blended with the textured, melancholic realism of Lynette Yiadom-Boakye, ethereal oil on canvas with delicate glazes and palpable emotional gravity], [Composition & Camera: book cover framing, an intimate and centered composition with a dramatic low-angle that emphasizes both the vast, heavy sky and the personal excavation, a shallow depth of field focusing on the woman's hands and the spectral reflection], [Lighting & Color Palette: somber, overcast daylight with a muted, desaturated palette of storm-grey, clay-brown, and damp indigo, punctuated by the warm, ghostly amber glow of memory and a single streak of fragile light breaking through the clouds], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
